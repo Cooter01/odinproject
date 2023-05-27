@@ -1,0 +1,62 @@
+* { 
+    transition: all ease-in-out 1s}
+
+
+body {
+    background-color: black;
+    background-image: url(img/lightblue.png);
+    color: #4e476a;
+    font-size: 21px;
+    font-family: Calibre, Candar,Segoe,"Segeoe UI",Optima,Arial,sans-serif;
+    
+    
+}
+
+
+h1{
+    color: black;
+    font-size: 70px;
+    font-family: Calibre, Candar,Segoe,"Segeoe UI",Optima,Arial,sans-serif;
+    margin-bottom : 0;
+}
+
+
+
+h2 {
+    
+    margin-top: 0px;
+}
+
+
+p{
+    
+    font-size: 30px;
+    
+    margin-top: 0;
+}
+
+.red-box{
+    height: 500px;
+    width: 500px;
+    background: rgba(255,0,0,5);
+    
+    float: left;
+    
+    }
+
+.blue-box{
+    height: 400px;
+    width: 700px;
+    background:blue
+    
+
+}
+
+
+
+
+img{
+    float: none;
+    margin-right:  20px;
+}  
+
