@@ -23,23 +23,29 @@ img {
     width: 700;
     margin: 50px auto;
 }
+    
 .image-container {
-    display: flex; /* Use flexbox for centering */
-    justify-content: center; /* Horizontally center */
-    align-items: center; /* Vertically center */
+   /* display: flex; /* Use flexbox for centering 
+    justify-content: center; /* Horizontally center 
+    align-items: center; /* Vertically center 
     height: 100vh; /* Set the height of the container, adjust as needed */
+    margin-top: 0;
+    margin-bottom: 0;
+    display: flex; 
+    justify-content: center;
   }
   
   .image-container img {
     max-width: 100%; /* Make sure the image doesn't exceed the container width */
     max-height: 100%; /* Make sure the image doesn't exceed the container height */
-    margin: auto; /* Center the image within the container */
+    /*margin-top: 0;  Center the image within the container */
+   
   }
 
   .new-image {
     height: 300px;
     width: 300;
-    margin: 1px auto;
+    
   }
   
   
